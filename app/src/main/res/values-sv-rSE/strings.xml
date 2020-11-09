@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jennys hangman game</string>
+    <string name="init_word">_ _ _ _ _ _ _</string>
+    <string name="new_game">Nytt spel</string>
+    <string name="you_win">GRATTIS DU VANN!</string>
+    <string name="you_lose">LOOSER</string>
+    <string name="game_is_ended">Spelet är slut. Spela igen!</string>
+    <string name="word_to_find">Orden du skulle hitta var: #word#</string>
+    <string name="try_an_other">Prova en annan bokstav</string>
+    <string name="letter_already_entered">Du har redan använt denna bokstav</string>
+    <string name="developername">QueenJenny</string>
+    <string name="developer_name_title">Utvecklat av:</string>
+    <string name="tomainmenu">Till Huvudmenyn</string>
+    <string name="start">Start</string>
+</resources>
